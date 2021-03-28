@@ -5,5 +5,7 @@ public class Cukeone {
         System.out.println("Trio");
         System.out.println("Well done Anna");
         System.out.println("Irina");
+        System.out.println("Training is in process");
+        System.out.println("changes");
     }
 }
